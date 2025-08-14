@@ -1,0 +1,10 @@
+.env
+*.log
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.vscode/
+.idea/
+memory_data.json
+

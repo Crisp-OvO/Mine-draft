@@ -1,0 +1,11 @@
+upload_to_github.bat
+upload_exclude.txt
+.env
+*.log
+__pycache__
+*.pyc
+*.pyo
+.pytest_cache
+.vscode
+.idea
+.git 
